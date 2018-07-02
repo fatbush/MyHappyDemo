@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="mvp_hori_back_toolbar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="android:minHeight">@dimen/title_height</item>
+    </style>
+
+    <style name="mvp_hori_back_toolbar_menu" parent="ThemeOverlay.AppCompat.Light">
+        <item name="actionMenuTextColor">@color/bg_A5</item> <!--颜色-->
+        <item name="android:textSize">@dimen/textSize_15sp</item> <!--字体大小-->
+    </style>
+
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--主色-->
+    <color name="bg_A1">#ff661b</color><!--橙色-->
+    <color name="bg_A2">#f74861</color><!--红色-->
+    <color name="bg_A3">#52c672</color><!--绿色-->
+    <color name="bg_A4">#cecece</color><!--灰色-->
+    <color name="bg_A5">#EFEFEF</color><!--白色-->
+    <color name="bg_common">#F3F4F5</color>
+
+    <!--文字色-->
+    <color name="textColor_A1">#222222</color><!--黑色-->
+    <color name="textColor_A2">#fc9153</color><!--橙色-->
+    <color name="textColor_A3">#6a6a6a</color><!--淡黑色-->
+    <color name="textColor_A4">#aaaaaa</color><!--灰色-->
+    <color name="textColor_A5">#cccccc</color><!--淡灰色-->
+    <color name="textColor_A6">#333333</color><!--淡黑色-->
+    <color name="textColor_A7">#FFF   </color><!-- 纯白 -->
+    <color name="textColor_fc9153">#fc9153</color>
+    <color name="textColor_fc9154">#fc9154</color>
+    <color name="textColor_3cbca3">#3cbca3</color>
+    <color name="textColor_555555">#555555</color>
+    <color name="textColor_51aefc">#51aefc</color>
+    <color name="textColor_ffc519">#ffc519</color>
+    <color name="textColor_666666">#666</color>
+    <color name="textColor_41B79D">#41B79D</color>
+    <color name="textColor_b4000000">#b4000000</color>
+    <color name="textColor_888888">#888888</color>
+    <color name="textColor_4F8EFF">#4F8EFF</color>
+
+    <!-- 微信支付 -->
+    <color name="grey">#58616d</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="navpage">#FFE1E8EB</color>
+
+    <color name="gold_share_title">#da8201</color><!--分享标题金色-->
+
+    <color name="cyan">#ff03bbd5</color>
+    <color name="dark_wine_red">#a9424d</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="off_white">#fff5f5f5</color>
+    <color name="lightest_gray">#ffe5e5e5</color>
+    <color name="gray_bg">#ffe9e9e9</color>
+    <color name="lighter_gray">#ff999999</color>
+    <color name="light_gray">#ff737373</color>
+    <color name="light_red">#ffff6b69</color>
+    <color name="mid_gray">#ff8a8785</color>
+    <color name="dark_gray">#ff333333</color>
+    <color name="darker_gray">#ff202020</color>
+    <color name="darkest_gray">#ff191919</color>
+    <color name="blue">#1E90FF</color>
+    <color name="blue_light">#c5ebf8</color>
+    <color name="blue_selected">#33b5e6</color>
+    <color name="dark_blue_translucent">#ee4285f4</color>
+    <color name="dark_blue">#ff4285f4</color>
+    <color name="mid_white">#ffefeeee</color>
+    <color name="darker_white">#ffaaaaaa</color>
+    <color name="green">#ffb8bf1f</color>
+    <color name="light_green">#ff1fb81f</color>
+    <color name="jungle_green">#ff32b679</color>
+    <color name="jungle_green_80_percent">#cc32b679</color>
+    <color name="black_80_percent">#cc000000</color>
+    <color name="black_66_percent">#aa000000</color>
+    <color name="black_50_percent">#7f000000</color>
+    <color name="black_40_percent">#64000000</color>
+    <color name="black_15_percent">#26000000</color>
+    <color name="gray_light_text">#ff8e8e93</color>
+    <color name="gray_text">#ff3a3536</color>
+    <color name="gray_bg_main">#fff2f3f5</color>
+    <color name="gray_bg_drak">#fff6f5f9</color>
+    <color name="gray_bg_medium">#ffc8c7cc</color>
+    <color name="gray_bg_light">#F3F4F5</color>
+    <color name="gray_90_percent">#e6262626</color>
+    <color name="white_60_percent">#99ffffff</color>
+    <color name="white_40_percent">#64ffffff</color>
+    <color name="white_80_percent">#ccffffff</color>
+    <color name="white_90_percent">#e6ffffff</color>
+    <color name="lightest_grey_95_percent">#f3eeedf3</color>
+    <color name="lightest_grey_90_percent">#e5eeedf3</color>
+    <color name="happy_blue">#ff30bbce</color>
+    <color name="aqua_marine">#ff34b7a1</color>
+    <color name="old_orange">#ffcc7a2f</color>
+    <color name="cheek_pink">#fffe7676</color>
+    <color name="beige">#ffcdaf70</color>
+    <color name="blue_steel">#ffa0a0a0</color>
+    <color name="sad_red">#ffd35b5b</color>
+    <color name="sad_blue">#ff157efb</color>
+    <color name="sad_gray">#ffb2b2b2</color>
+    <color name="sad_yellow">#fff3a335</color>
+    <color name="sad_light_gray">#ffeeedf3</color>
+    <color name="sad_night">#ff637076</color>
+    <color name="sad_day">#ffcccccc</color>
+    <color name="white_color_disable">#7fffffff</color>
+    <color name="normal_text_color">#222</color>
+    <color name="normal_text_color_disable">#7f353535</color>
+    <color name="hint_text_color">#666</color>
+    <color name="light_text_color">#ffbbbbbb</color>
+    <color name="dark_text_color">#ff202020</color>
+    <color name="link_color">#ff7a93af</color>
+    <color name="link_color_pressed">#ff576b95</color>
+    <color name="list_bg_color">#faffffff</color>
+    <color name="list_bg_color_press">#faFF6600</color>
+    <color name="bg_seprate">#ffe8e8e8</color>
+    <color name="bg_pop_win">#30000000</color>
+    <color name="light_grey">#fff1f1f1</color>
+    <color name="hight_light">#fff2f2</color>
+    <color name="my_monitor_item_backgound">#ededf3</color>
+
+    <color name="bg_f0f0f0">#f0f0f0</color>
+    <color name="bg_cdcdcd">#cdcdcd</color>
+
+
+    <color name="primary">#8BC34A</color>
+    <color name="primaryDark">#689F38</color>
+    <color name="primaryLight">#DCEDC8</color>
+    <color name="accent">#FF4081</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#727272</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="color_f8f8f8">#f8f8f8</color>
+    <color name="color_navigation">#EBEBEB</color>
+
+
+    <color name="bg_wechat_unbind">#ff525c</color>
+    <color name="color_999999">#ff999999</color>
+    <color name="color_FC9153">#FC9153</color>
+    <color name="color_5F000000">#5F000000</color><!--半透明黑色-->
+
+    <color name="title_color">#222222</color>
+    <color name="tv_color">#666666</color>
+</resources>
